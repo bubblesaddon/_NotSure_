@@ -15,7 +15,7 @@
 		<import addon="script.module.liveresolver"/>
 		<import addon="script.video.F4mProxy"/>
 		<import addon="plugin.video.f4mTester" />
-		<import addon="script.module.nanscrapers" version="0.5.51" />
+		<import addon="script.module.nanscrapers" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
